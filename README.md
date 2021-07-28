@@ -1,2 +1,3 @@
-# TennisProject
-Проект за записване и създаване на жребии на тенис турнири
+# ReactLoginRegisterUI
+
+[React Bootstrap Login & Register UI Templates](https://www.remotestack.io/react-bootstrap-login-register-ui-templates/)
