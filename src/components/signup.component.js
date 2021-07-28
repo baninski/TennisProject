@@ -7,7 +7,7 @@ export default class SignUp extends Component {
                 <h3>Регистрация</h3>
 
                 <div className="form-group">
-                    <label>Име и фамилия</label>
+                    <label>Име и </label>
                     <input type="text" className="form-control" placeholder="Име и фамилия" />
                 </div>
 
