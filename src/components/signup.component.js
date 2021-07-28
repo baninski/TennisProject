@@ -28,7 +28,7 @@ export default class SignUp extends Component {
 
                 <button type="submit" className="btn btn-dark btn-lg btn-block">Регистрирай</button>
                 <p className="forgot-password text-right">
-                    Вече е регистриран <a href="#">Влез?</a>
+                    Вече сте регистриран <a href="#">Влез?</a>
                 </p>
             </form>
         );
